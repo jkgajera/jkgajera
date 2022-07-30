@@ -1,4 +1,4 @@
-### Hi 👋, I'm Sergey
+### Hi 👋, I'm Janak
 
 🔭 I’m currently working on ...
 
