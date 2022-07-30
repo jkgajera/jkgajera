@@ -1,5 +1,9 @@
 ### Hi 👋, I'm Sergey
 
+🔭 I’m currently working on ...
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,jquery,html,css,sass,figma,photoshop,illustrator,wordpress,git)](https://skills.thijs.gg)
+
 <!--
 **jkgajera/jkgajera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
