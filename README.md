@@ -1,6 +1,10 @@
 ### Hi 👋, I'm Janak
 
 🔭 I’m currently working on ...
+<!--
+![Janak's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkgajera&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkgajera&theme=dark&show_icons=true)
+-->
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,flutter,jquery,html,css,sass,figma,photoshop,illustrator,wordpress,git)](https://skills.thijs.gg)
 
